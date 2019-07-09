@@ -1,0 +1,28 @@
+body{
+    background-color: teal;
+    font-family: Verdana
+}
+h1{
+    color:white;
+    text-align: center;
+}
+h2 {
+    color: white;
+}
+p{
+    text-align: center;
+    color: turquoise;
+}
+section {
+    width: 33%;
+    float: left;
+    text-align: left;
+}
+UL {
+    list-style-type: none;
+}
+
+.lists{
+    list-style: inside;
+    list-style-type: disc; 
+}
